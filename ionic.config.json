@@ -1,0 +1,7 @@
+{
+  "name": "iosRead",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
